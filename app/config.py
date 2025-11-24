@@ -1,0 +1,1 @@
+NOTIFY_TIME = "09:00"

@@ -3,4 +3,5 @@
 содержимое .env
 
 DATABASE_URL
+
 BOT_TOKEN
